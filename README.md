@@ -1,4 +1,4 @@
-# first_getbrain_project
+# first_hyperskill_project
 
 def greet(bot_name, birth_year):
     print('Hello! My name is ' + bot_name + '.')
